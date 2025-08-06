@@ -6,9 +6,9 @@ It also verifies if specified user exists. If not client recieves 404 (Not Found
 There is also integration test for happy path created.
 
 ## Contents
-- [Installation]
-- [Endpoint]
-- [Technologies]
+- [Installation](#installation)
+- [Endpoint](#endpoint)
+- [Technologies](#technologies)
 
 ## Installation
 ```command line
@@ -18,8 +18,8 @@ Compile using IDE.
 
 ## Endpoint
 There is only one endpoint:
-  http://localhost:PORT/users/{specifiedUser}/repositories
-  specifiedUser -> who`s GitHub Repositories list you want
+http://localhost:PORT/users/{specifiedUser}/repositories
+specifiedUser -> who`s GitHub Repositories list you want
 
 SwaggerUI or GUI wasn't implemented so you need to use PostMan for testing.
 
