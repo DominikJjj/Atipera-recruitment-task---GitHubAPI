@@ -6,9 +6,9 @@ It also verifies if specified user exists. If not client recieves 404 (Not Found
 There is also integration test for happy path created.
 
 ## Contents
-- [Installation] (#Installation)
-- [Endpoint] (#endpoint)
-- [Technologies] (#technologies)
+- [Installation]
+- [Endpoint]
+- [Technologies]
 
 ## Installation
 ```command line
